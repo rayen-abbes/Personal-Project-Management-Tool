@@ -1,0 +1,52 @@
+body{
+    background-color: #ccc;
+}
+#avatar-wrapper{
+
+}
+#avatar{
+    border-radius: 50%; 
+}
+#days-wrapper{
+    position: absolute;
+    text-align: center;
+    left: 50px;
+}
+
+.container{
+    border-style: solid;
+    border-color: #444;
+    /* background-color: #aaa; */
+}
+
+#days{
+    position: relative;
+    height: 300px;
+    width: 300px;
+
+}
+
+#sideways{
+    position: absolute;
+    text-align: center;
+    left: 500px;
+    top: 40px;
+    width: 750px;
+
+}
+
+#about{
+    position: relative;
+    height: 100px;
+}
+
+#details{
+    position: relative;
+    height: 600px;
+}
+#text-container {
+    text-align: left;
+    font-size: 40px;
+    text-indent: 25px;
+}
+
